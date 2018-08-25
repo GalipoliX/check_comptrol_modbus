@@ -11,7 +11,7 @@
 # Usage:        ./check_comptrol_modbus -H host
 #################################################################################
 
-help="check_comptrol_modbus (c) 2012 Michael Geschwinder published under GPL license
+help="check_comptrol_modbus (c) 2018 Michael Geschwinder published under GPL license
 \nUsage: ./check_comptrol_modbus -H host [-w warning] [-c critical]
 \nRequirements: modbtget, awk, sed\n
 \nOptions: \t-H hostname \t-t type\n"
