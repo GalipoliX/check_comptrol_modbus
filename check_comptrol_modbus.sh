@@ -247,5 +247,10 @@ temp)
         fi
 ;;
 
+*)
+        echo -e "${help}";
+        exit $STATE_UNKNOWN;
+
+
 esac
-exit $STATE_UNKNOWN
+exit $STATE_OK
